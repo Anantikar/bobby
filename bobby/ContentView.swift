@@ -22,6 +22,8 @@ struct ContentView: View {
             EmojiView(symbol: "🩲", size: 50, x: 0,  y: 0)
             EmojiView(symbol: "🖋️", size: 50, x: 60,  y: -60)
             EmojiView(symbol: "🍕", size: 50, x: -60,  y: -60)
+            EmojiView(symbol: "🏳️‍🌈", size: 10, x: -11,  y: -140)
+            EmojiView(symbol: "🏳️‍🌈", size: 10, x: 11,  y: -140)
 
         }
         .frame(width: 200, height: 320)
