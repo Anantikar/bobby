@@ -66,6 +66,7 @@ struct EmojiView: View {
             .font(.system(size: size))
             .offset(x: x, y: y)
     }
+    
 }
 #Preview {
     ContentView()
